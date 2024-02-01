@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="automaton">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Brics/dk.brics.automaton/target/automaton-1.12-2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,3 @@
+[submodule "brics"]
+	path = brics
+	url = https://github.com/adnan0944/Brics
