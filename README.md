@@ -8,5 +8,5 @@ Built using Intellij IDEA 2022.1.2
 
 ```
 # Dependencies
-1. Brics Automaton - jar file in 
+1. Brics Automaton - jar file in directory `brics/`
 
