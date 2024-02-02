@@ -1,17 +1,12 @@
-# RegexAnalyzer
+# AttackAutomatonMaker
 
-Apply language-level definition of ambiguity, resolved through automaton analysis.
-
-For ANTLR to work you need to add antlr-4.7.2-complete.jar as an external library
-
-which can be downloaded from https://repo1.maven.org/maven2/org/antlr/antlr4/4.7.2/
-
-
-Also add BRICS jar.
+Creating an attack automaton given an ambiguous regular expression.
+[Reference Paper](https://arxiv.org/pdf/2308.06246.pdf).
 # Usage
-
-Try this:
+Built using Intellij IDEA 2022.1.2 
+```
 
 ```
-CLASSPATH=deps/automaton-1.12-2.jar java src/RegexAnalyzer.java  
-```
+# Dependencies
+1. Brics Automaton - jar file in 
+
